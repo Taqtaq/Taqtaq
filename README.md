@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python, FastAPI, Networks (CCNA), and Databases (MySQL, PostgreSQL, SQLite)  
 - 💼 I’m working on a mini-project using FastAPI and plan to upload it to GitHub soon  
 - 💡 I’m looking to collaborate on cybersecurity, backend development, and automation projects  
-- 📫 How to reach me: nikataqtaqishvili05@gmail.com | Telegram: @nikataq728 
+- 📫 How to reach me: nika.taqtaqishvili.1@btu.edu.ge | Telegram: @pumba_taq 
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love challenges and enjoy finding vulnerabilities in systems just for fun!  
 

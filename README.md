@@ -21,5 +21,5 @@ Junior Backend / Internship / Remote opportunities
 
 ## Contact
 Email: nikataqtaqishvili72@gmail.com
-Telegram: @nik_tqtq
+Telegram: https://t.me/nik_tqtq
 LinkedIn: www.linkedin.com/in/nika-taqtaqishvili-0892892b2
